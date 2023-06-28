@@ -10,6 +10,6 @@ export default {
 
 <template>
     <header>
-        <h1>{{ title }}</h1>
+        <h1 class="text-white mb-5">{{ title }}</h1>
     </header>
 </template>

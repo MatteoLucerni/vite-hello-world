@@ -12,7 +12,15 @@ export default {
 
 
 <template>
-  <AppTitle />
+  <div class="container text-center mt-5">
+    <AppTitle />
 
-  <AppHero />
+    <AppHero />
+  </div>
 </template>
+
+<style>
+body {
+  background-color: rgb(112, 66, 66);
+}
+</style>
